@@ -26,10 +26,8 @@
 <script>
 import Hello from './components/Hello'
 import Message from './components/message'
-import store from './vuex/store'
 
 export default {
-  store,
   components: {
     Hello,
     Message
